@@ -24,5 +24,5 @@ This is the WLUG AGM minutes from the wiki website. These documents were in wiki
 -    2019 SGM, on 25 February 2019
 -    2019 SGM, on 25 March 2019
 -    2019 AGM, on 25 November 2019
--    2020 AGM, on 25 January 2021
+-    2020 AGM, on [25 January 2021](/2021-01-25/README.md)
 -    2021 AGM, on [24 January 2022](/2022-01-24/README.md) 
