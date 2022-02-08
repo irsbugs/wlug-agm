@@ -2,22 +2,22 @@
 
 ## Present:
 
-  - Rod Aldridge
-  - Lawrence D’Oliveiro
-  - Roger Hardy
-  - Jacob Pouw-Waas
-  - Peter Reutemann
-  - Jeff Seymour
-  - Ian Stewart
-  - Tony Templer
-  - Ian Young
+- Rod Aldridge
+- Lawrence D’Oliveiro
+- Roger Hardy
+- Jacob Pouw-Waas
+- Peter Reutemann
+- Jeff Seymour
+- Ian Stewart
+- Tony Templer
+- Ian Young
 
-  - Robert Beck
+- Robert Beck
 
 ## Apologies:
 
-  - Chris O'Halloran
-  - Tom Butz
+- Chris O'Halloran
+- Tom Butz
 
 ## Meeting:
 
