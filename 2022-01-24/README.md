@@ -142,6 +142,6 @@ agreed.
 The AGM concluded at 8:48 pm.
 
 
-This document was converted from tikiwiki to gfm (github format markdown) format by Ian Stewart. 2022-02-08.
+This document was converted from tikiwiki to gfm (github flavoured markdown) format by Ian Stewart. 2022-02-08.
 This is 2022-01-24/README.md file
 TODO: Test Nikola converts this to an HTML file OK.
