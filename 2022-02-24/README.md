@@ -1,7 +1,6 @@
 # Minutes of WLUG AGM 2021 - 24 January 2022
 
-Present:
-========
+## Present:
 
 -   Rod Aldridge
 -   Tom Butz
@@ -11,18 +10,15 @@ Present:
 -   Ian Stewart
 -   Tony Templer
 
-Apologies:
-==========
+## Apologies:
 
 None
 
-Meeting:
-========
+## Meeting:
 
 The AGM commenced at 7:53 pm.
 
-Minutes for AGM 2020
-====================
+## Minutes for AGM 2020
 
 Ian read the minutes for the 2020 AGM that had been held on 25 January
 2021.
@@ -30,8 +26,7 @@ Ian read the minutes for the 2020 AGM that had been held on 25 January
 Peter moved the minutes be accepted as an accurate record of the
 meeting. Rod seconded. Unanimous vote in favour.
 
-President's Report
-==================
+## President's Report
 
 Peter thanked our sponsors for 2021:
 
@@ -88,8 +83,7 @@ github.io website. However no progress was made on making this move.
 Peter moved that President's report be accepted. Rod seconded.
 Unanimously accepted.
 
-Treasurer's Report
-===================
+## Treasurer's Report
 
 Ian prepared and presented the Treasurer's Report. We had a small
 profit for the year. Our regular expenses are the continuing of our
@@ -100,13 +94,11 @@ Our financial year continues to be from 1st January to 31st December.
 Ian moved the Treasurer's Report be accepted and Chris seconded.
 Unanimously agreed.
 
-Election of Committee for 2022
-==============================
+## Election of Committee for 2022
 
 The following Officers were re-elected. There were no changes from 2021.
 
-Officers:
-=========
+## Officers:
 
 -   President: Peter Reutemann.
 -   Vice President: Chris O'Halloran.
@@ -117,8 +109,7 @@ Peter contacted Lawerence and Roger by e-mail and they replied that they
 agreed to be on the Committee again. Tom offered to be a replacement for
 Jacob.
 
-Committee:
-==========
+## Committee:
 
 -   Roger Hardy.
 -   Lawrence D'Oliverio.
@@ -132,13 +123,13 @@ agreed.
 1.  *RimuHosting* recently migrated the machine running our website to
     another virtual machine without any problems.
 
-2.  Migrating some of the RIMU hosting and Wiki material to github.io.
+2.  Migrating some of the *RimuHosting* and Wiki material to github.io.
     Look at possibly having a CNAME for our current domain to point to
     wlug.github.io.
 
 3.  Ian will set up a wlug.github.io Nikola website as a start as
-    replacement of important content on *RimuHosting* and the wiki. May
-    need to talk to Daniel about keeping wiki as a static website.
+    replacement of important content on *RimuHosting* and the Wiki. May
+    need to talk to Daniel about keeping Wiki as a static website.
 
 4.  Peter to check with lecturers on what they use for applications. Try
     to promote meetings that use open source and appeal to the Uni
