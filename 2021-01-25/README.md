@@ -11,7 +11,6 @@
 - Ian Stewart
 - Tony Templer
 - Ian Young
-
 - Robert Beck
 
 ## Apologies:
