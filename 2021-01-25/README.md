@@ -122,5 +122,5 @@ R and Python languages.
 The AGM concluded at 9:15 pm.
 
 
-This document was converted from tikiwiki to gfm (github format markdown) format by Ian Stewart. 2022-02-08.
+This document was converted from tikiwiki to gfm (github flavoured markdown) format by Ian Stewart. 2022-02-08.
 This is 2021-01-25/README.md file
