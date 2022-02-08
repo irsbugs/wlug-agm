@@ -127,8 +127,7 @@ Committee:
 Peter proposed the Officers and Committee. Chris seconded. Unanimously
 agreed.
 
-General Business Agenda
-=======================
+# General Business Agenda
 
 1.  *RimuHosting* recently migrated the machine running our website to
     another virtual machine without any problems.
@@ -147,8 +146,7 @@ General Business Agenda
 
 5.  Aim to have meetings which are held at MS4.G.02 to also be on BBB.
 
-Meeting:
-========
+# Meeting:
 
 The AGM concluded at 8:48 pm.
 
