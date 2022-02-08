@@ -2,7 +2,7 @@
 
 This is the WLUG AGM minutes from the wiki website. These documents were in wikitiki format and have been converted to markdown.
 
-- Inaugural AGM, around about 22 July 2002
+-    Inaugural AGM, around about 22 July 2002
 -    2003 AGM, on 22 September 2003
 -    2004 AGM, on 13 September 2004
 -    2005 AGM, on 26 September 2005
@@ -25,4 +25,4 @@ This is the WLUG AGM minutes from the wiki website. These documents were in wiki
 -    2019 SGM, on 25 March 2019
 -    2019 AGM, on 25 November 2019
 -    2020 AGM, on 25 January 2021
-- 2021 AGM, on 24 January 2022
+-    2021 AGM, on [24 January 2022](/2022-01-24/README.md) 
